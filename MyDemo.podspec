@@ -15,7 +15,7 @@
       # s.osx.deployment_target = '10.7'  
       s.requires_arc = true  
       
-      s.source_files = 'WZMarqueeView/*'  
+      s.source_files = 'KYMyTestView/*'  
       # s.resources = 'Assets'  
       
       # s.ios.exclude_files = 'Classes/osx'  
